@@ -27,3 +27,16 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### My Project Cleanups ###
+# Özel klasörlerimi engelle
+ESKİ/
+Group29/
+GroupDoc29/
+GroupSource29/
+Yüklenecekler/
+
+# Tüm zip dosyalarını engelle
+*.zip
+*.mp4
+*.sql
